@@ -1,3 +1,3 @@
 # (PlateUP!) Spamton Skin Pack 
 
-Spamton skin model provided by <a href=https://sketchfab.com/nikkiross>nikkiross</href>
+Spamton skin model provided by [nikkiross](https://sketchfab.com/nikkiross)
